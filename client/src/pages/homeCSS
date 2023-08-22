@@ -1,0 +1,16 @@
+// homeCSS.js
+const styles = {
+  container: 'max-w-7xl mx-auto',
+  heading: 'font-extrabold text-[#222328] text-[32px]',
+  description: 'mt-2 text-[#666e75] text-[14px] max-w-[500px]',
+  searchSection: 'mt-16',
+  searchLabel: 'text-[#666e75] text-lg font-medium mb-2',
+  searchInput: 'w-full p-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500',
+  resultsTitle: 'font-medium text-[#666e75] text-xl mb-3',
+  resultsHighlight: 'text-[#222328]',
+  cardsSection: 'mt-10',
+  loaderContainer: 'flex justify-center items-center',
+  gridContainer: 'grid lg:grid-cols-4 sm:grid-cols-3 xs:grid-cols-2 grid-cols-1 gap-3',
+};
+
+export default styles;
