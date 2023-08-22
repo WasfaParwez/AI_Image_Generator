@@ -33,3 +33,13 @@ To experience the magic of DALL-E Impressions, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/dalle-impressions.git
+
+2. **Clone the Repository:** Install Dependencies: Navigate to the project directory and install the required dependencies.
+
+   ```bash
+   cd dalle-impressions
+   npm install
+
+3. **Clone the Repository:** Run the Application: Start the development server and explore DALL-E Impressions in your web browser.
+   ```bash
+   npm start
