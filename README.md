@@ -8,7 +8,7 @@ DALL-E Impressions is an innovative AI-powered image creation platform that allo
 Unleash your creativity with DALL-E Impressions. Generate unique and captivating images based on your prompts, opening the door to an array of artistic expressions.
 
 ### 2. Surprise Me
-Feeling adventurous? Use the "Surprise Me" feature to receive random prompts, sparking your imagination and generating unexpected artworks.
+Feeling adventurous? Use the "Surprise Me" feature to receive random prompts, sparking your imagination and generating unexpected artworks .
 
 ### 3. Community Showcase
 Share your AI-generated masterpieces with the DALL-E community. Connect with fellow artists, get inspired by their creations, and receive feedback on your own.
